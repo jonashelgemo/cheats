@@ -6,6 +6,9 @@ brew update
 # upgrade brew
 brew upgrade
 
+# upgrade an installed package
+brew upgrade <installed>
+
 # get info for a package
 brew info <package>
 
